@@ -14,7 +14,7 @@
 - **Git Directory (Repository)**: commit 명령을 통해 변경 사항이 영구적으로 저장되는 로컬 저장소입니다.
 
 <**Git 명령어 개념**>
-- **git init**: 새 Git 저장소를 초기화할 때 사용!
+- **git init**: 새 Git 저장소를 초기화할 때 사용
 - **git clone [URL]**: 원격 저장소 복제해서 로컬에 가져오기
 - **git status**: 현재 변경된 파일 상태 확인
 - **git add [파일명]**: 변경된 파일을 스테이지에 올리기
